@@ -1,2 +1,2 @@
-# SYM-MINI
+# sym-mini.github.io
 KeyShotXR
